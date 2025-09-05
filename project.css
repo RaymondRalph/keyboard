@@ -1,0 +1,10 @@
+button {
+  border: 0.1px solid black;
+  margin: 1px;
+}
+
+.doCenter {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
